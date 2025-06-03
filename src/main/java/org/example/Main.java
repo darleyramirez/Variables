@@ -6,9 +6,9 @@ import java.time.LocalTime;
 public class Main {
     public static void main(String[] args) {
         System.out.println("variables");
-        int edad;
+        byte edad;
         double precioProducto;
-        int cantidadHijos;
+        byte cantidadHijos;
         double salario;
         double altura;
         boolean interruptorEncendido;
